@@ -14,7 +14,7 @@
 <p align="center">
     <a href="https://arxiv.org/abs/2601.05535" rel="external nofollow noopener" target="_blank">WACV2026 VReID-XFD Workshop Paper</a>
   <p align="center">
-    <img src="assets/dataset.png" alt="Examples illustrating four major variations in the VReID-XFD challenge" style="width:40%;">
+    <img src="assets/dataset.png" alt="Examples illustrating four major variations in the VReID-XFD challenge" style="width:50%;">
   <p align="center">
 <p align="center" style="font-size: 18px; color: gray;">
     Figure 1: Examples illustrating four major variations in the VReID-XFD challenge.
@@ -196,6 +196,15 @@ pip install -r requirements.txt
 CUDA_VISIBLE_DEVICES=0 python train_climb.py --config_file configs/vit_clipreid.yml
 #Training was performed using ViT-Base-16.
 CUDA_VISIBLE_DEVICES=0 python train_climb.py --config_file configs/vit_clipreid_base.yml
+```
+### Testing 
+```bash
+conda activate SAS
+cd ../SAS_PUBLIC
+#Testing was performed using ViT-Large-14.
+CUDA_VISIBLE_DEVICES=0 python evaluate_all_cases.py --config_file configs/vit_clipreid.yml --model_path output_original/**.pth
+#Testing was performed using ViT-Base-16.
+CUDA_VISIBLE_DEVICES=0 python evaluate_all_cases.py --config_file configs/vit_clipreid_base.yml --model_path output_original/**.pth
 ```
 
 <!-- ### Training Example
