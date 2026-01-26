@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs & experiment outputs
+runs/
+wandb/
+logs/
+outputs/
+checkpoints/
+*.log
+
+# model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.so
+
+# data
+*.npy
+*.npz
+
+# system
+.DS_Store
+
+# Example/Develop
+**/ex-*
+**/*-ex
+**/*-ex.*
+**/dev-*
+**/*-dev
+**/*-dev.*
+
