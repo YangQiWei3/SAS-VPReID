@@ -279,7 +279,7 @@ def do_train_stage2(cfg,
 
         # save_epochs = [30,32,34,36,38,40,42,44,46,48,50]
         # if epoch in save_epochs:
-        if epoch % checkpoint_period == 0:  # or epoch == 1
+        if epoch % checkpoint_period == 0 and epoch > 14:  # or epoch == 1
             msg = "Epoch {} done. Time per batch: {:.3f}[s] Speed: {:.1f}[samples/s]".format(epoch, time_per_batch, B / time_per_batch)
             logger.info(msg)
 

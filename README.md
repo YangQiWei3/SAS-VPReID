@@ -37,6 +37,11 @@ Video-based Person Re-IDentification (VPReID) aims to retrieve the same person f
 - Great news! Our method ranks **the first** on the VReID-XFD challenge leaderboard! 🏆
 - Great news! Our paper has been accepted to **WACV2026 VReID-XFD Workshop**! 🏆
 
+#### Related Work from Our Group
+
+-  [Awesome-Aerial-Ground-Object-Re-Identification](https://github.com/YangQiWei3/Awesome-Aerial-Ground-Object-Re-Identification)(curated list): papers, datasets, codebases and challenges on aerial–ground object re-identification.  
+
+
 ---
 
 ## Table of Contents 📑
