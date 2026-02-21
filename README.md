@@ -45,15 +45,14 @@ Video-based Person Re-IDentification (VPReID) aims to retrieve the same person f
 ---
 
 ## Table of Contents 📑
-- [Introduction](#introduction)
-- [Contributions](#contributions)
-- [Experimental Results](#experimental-results)
-- [Visualizations](#visualizations)
-- [Reproduction](#reproduction)
-- [Citation](#citation)
+- [Introduction 🌟](#introduction-)
+- [Quick View 📊](#quick-view-)
+- [Quick Start 🚀](#quick-start-)
+- [Star History 🌟](#star-history-)
+- [Citation 📚](#citation-)
 
 ---
-## **Introduction** 🌟
+## Introduction 🌟
 
 Video-based Person Re-identification (VPReID) aims to retrieve the same person from tracklets captured by non-overlapping cameras. In the **VReID-XFD** setting, this task becomes substantially harder due to **extreme far-distance resolution degradation**, **drastic aerial–ground viewpoint/domain gaps**, and **cross-session clothing changes**, all of which often co-occur in real-world scenarios. 
 
@@ -79,7 +78,7 @@ Extensive experiments on the **DetReIDXV1** benchmark validate the effectiveness
 
 ---
 
-## **Quick View** 📊
+## Quick View 📊
 <!-- ### Dataset Examples
 #### Overview of Annotations 
 <p align="center">
@@ -154,7 +153,7 @@ Extensive experiments on the **DetReIDXV1** benchmark validate the effectiveness
 
 ---
 
-## **Quick Start** 🚀
+## Quick Start 🚀
 
 ### Datasets
 - **DetReIDXV1**: [Kaggle Site](https://www.kaggle.com/competitions/detreidxv1/data)  
@@ -184,7 +183,7 @@ IDEA_Codes
 ``` -->
 
 ### Pretrained Models
-- **DetReIDXV1**: [Baidu Pan](https://pan.baidu.com/s/1RAbcdytY2rOIGm1fC9Su8g?pwd=0369) (Code: `0369`)
+- **DetReIDXV1**: [Baidu Pan](https://pan.baidu.com/s/19lReSHSdzXNtIMsBrXDYLw?pwd=0369) (Code: `0369`)
 
 
 ### Configuration
@@ -230,7 +229,7 @@ CUDA_VISIBLE_DEVICES=0 python evaluate_all_cases.py --config_file configs/vit_cl
 
 ---
 
-## **Citation** 📚
+## Citation 📚
 
 If you find **SAS-VPReID** helpful in your research, please consider citing:
 ```bibtex
