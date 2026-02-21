@@ -183,8 +183,9 @@ IDEA_Codes
 └── ...                           # Other project files
 ``` -->
 
-<!-- ### Pretrained Models
-- **CLIP**: [Baidu Pan](https://pan.baidu.com/s/1YPhaL0YgpI-TQ_pSzXHRKw) (Code: `52fu`) -->
+### Pretrained Models
+- **DetReIDXV1**: [Baidu Pan](https://pan.baidu.com/s/1RAbcdytY2rOIGm1fC9Su8g?pwd=0369) (Code: `0369`)
+
 
 ### Configuration
 - CLIP ViT Large P14: `configs/vit_clipreid.yml` 
