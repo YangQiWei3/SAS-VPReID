@@ -103,7 +103,7 @@ Extensive experiments on the **DetReIDXV1** benchmark validate the effectiveness
 
 #### Leaderboard results on DetReIDXV1 benchmark for the VReID-XFD challenge
 <p align="center">
-    <img src="assets/Table2.png" alt="Leaderboard results on DetReIDXV1 benchmark for the VReID-XFD challenge" style="width:50%;">
+    <img src="assets/Table2.png" alt="Leaderboard results on DetReIDXV1 benchmark for the VReID-XFD challenge" style="width:30%;">
 </p>
 
 #### Module ablation on DetReIDXV1
@@ -113,12 +113,41 @@ Extensive experiments on the **DetReIDXV1** benchmark validate the effectiveness
 
 #### Performance comparison of TSM and PRSD on DetReIDXV1 benchmark
 <p align="center">
-    <img src="assets/Table4.png" alt="Performance comparison of TSM and PRSD on DetReIDXV1 benchmark" style="width:50%;">
+    <img src="assets/Table4.png" alt="Performance comparison of TSM and PRSD on DetReIDXV1 benchmark" style="width:30%;">
 </p>
 
 ### Parameter Analysis
 <p align="center">
-    <img src="assets/Table5.png" alt="Params" style="width:50%;">
+    <img src="assets/Table5.png" alt="Params" style="width:40%;">
+</p>
+
+
+### More Experimental Results on AGReID Settings
+- **Code**: [Baidu Pan](https://pan.baidu.com/s/19lReSHSdzXNtIMsBrXDYLw?pwd=0369) (Code: `0369`)
+- **Pretrained Models**: [Baidu Pan](https://pan.baidu.com/s/19lReSHSdzXNtIMsBrXDYLw?pwd=0369) (Code: `0369`)
+#### Performance comparison on AG-ReID benchmark
+<p align="center">
+    <img src="assets/AG-ReID.png" alt="Params" style="width:30%;">
+</p>
+
+#### Performance comparison on AG-ReID.v2 benchmark
+<p align="center">
+    <img src="assets/AG-ReID.v2.png" alt="Params" style="width:50%;">
+</p>
+
+#### Performance comparison on CARGO benchmark
+<p align="center">
+    <img src="assets/CARGO.png" alt="Params" style="width:50%;">
+</p>
+
+<!-- #### Performance comparison on G2APS-ReID benchmark
+<p align="center">
+    <img src="assets/G2APS-ReID.png" alt="Params" style="width:50%;">
+</p> -->
+
+#### Performance comparison on LAGPeR benchmark
+<p align="center">
+    <img src="assets/LAGPeR.png" alt="Params" style="width:40%;">
 </p>
 
 <!-- ---
