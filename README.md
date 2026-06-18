@@ -121,10 +121,9 @@ Extensive experiments on the **DetReIDXV1** benchmark validate the effectiveness
     <img src="assets/Table5.png" alt="Params" style="width:40%;">
 </p>
 
-
 ### More Experimental Results on AGReID Settings
-- **Code**: [Baidu Pan](https://pan.baidu.com/s/19lReSHSdzXNtIMsBrXDYLw?pwd=0369) (Code: `0369`)
-- **Pretrained Models**: [Baidu Pan](https://pan.baidu.com/s/19lReSHSdzXNtIMsBrXDYLw?pwd=0369) (Code: `0369`)
+- **Code**: [Baidu Pan](https://pan.baidu.com/s/1--4wFE9qAM--v0_Di6zNYQ?pwd=0369) (Code: `0369`)
+- **Pretrained Models**: [Baidu Pan](https://pan.baidu.com/s/1--4wFE9qAM--v0_Di6zNYQ?pwd=0369) (Code: `0369`)
 #### Performance comparison on AG-ReID benchmark
 <p align="center">
     <img src="assets/AG-ReID.png" alt="Params" style="width:30%;">
@@ -212,7 +211,7 @@ IDEA_Codes
 ``` -->
 
 ### Pretrained Models
-- **DetReIDXV1**: [Baidu Pan](https://pan.baidu.com/s/19lReSHSdzXNtIMsBrXDYLw?pwd=0369) (Code: `0369`)
+- **DetReIDXV1**: [Baidu Pan](https://pan.baidu.com/s/1--4wFE9qAM--v0_Di6zNYQ?pwd=0369) (Code: `0369`)
 
 
 ### Configuration
