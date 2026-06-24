@@ -39,7 +39,8 @@ Video-based Person Re-IDentification (VPReID) aims to retrieve the same person f
 
 #### Related Work from Our Group
 
--  [Awesome-Aerial-Ground-Object-Re-Identification](https://github.com/YangQiWei3/Awesome-Aerial-Ground-Object-Re-Identification)(curated list): papers, datasets, codebases and challenges on aerial–ground object re-identification.  
+-  [Awesome AG-ReID](https://github.com/YangQiWei3/Awesome-Aerial-Ground-Object-Re-Identification)(curated list): papers, datasets, codebases and challenges on AG-ReID.  
+-  [AG-ReID Leaderboards](https://github.com/YangQiWei3/Awesome-Aerial-Ground-Object-Re-Identification/blob/main/leaderboards/ag_reid_leaderboards.pdf): leaderboards for AG-ReID.  
 
 
 ---
